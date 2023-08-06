@@ -1,0 +1,7 @@
+2023-08-06 02:31:35.199033 - Initialized conversion of CBT256
+2023-08-06 02:31:35.222130 - Received CBT.V505.FILE256.PDS from FILE256.XMI 
+2023-08-06 02:31:35.224283 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE256.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:31:35.225438 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE256.PDS, moved to PDS/$$$DOC
+2023-08-06 02:31:35.226396 - Found @FILE256.txt (text/plain) in CBT.V505.FILE256.PDS, moved to PDS/@FILE256
+2023-08-06 02:31:35.226407 - Found CHSCMDS.bin containing application/octet-stream, moved to PDS/CHSCMDS
+2023-08-06 02:31:35.227258 - Found ISPCMDS.bin containing application/octet-stream, moved to PDS/ISPCMDS
