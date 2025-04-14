@@ -1,6 +1,6 @@
-2025-04-13 17:53:17.109142 - Received CBT.V508.FILE256.PDS from FILE256.XMI 
-2025-04-13 17:53:17.109874 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/$$$#DATE
-2025-04-13 17:53:17.110001 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/$$$DOC
-2025-04-13 17:53:17.110096 - Found @FILE256.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/@FILE256
-2025-04-13 17:53:17.110211 - Found CHSCMDS.bin (application/octet-stream) in CBT.V508.FILE256.PDS, moved to PDS/CHSCMDS
-2025-04-13 17:53:17.110323 - Found ISPCMDS.bin (application/octet-stream) in CBT.V508.FILE256.PDS, moved to PDS/ISPCMDS
+2025-04-15 00:55:17.180509 - Received CBT.V508.FILE256.PDS from FILE256.XMI 
+2025-04-15 00:55:17.181411 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/$$$#DATE
+2025-04-15 00:55:17.181985 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/$$$DOC
+2025-04-15 00:55:17.182227 - Found @FILE256.txt (text/plain) in CBT.V508.FILE256.PDS, moved to PDS/@FILE256
+2025-04-15 00:55:17.182690 - Found CHSCMDS.bin (application/octet-stream) in CBT.V508.FILE256.PDS, moved to PDS/CHSCMDS
+2025-04-15 00:55:17.183085 - Found ISPCMDS.bin (application/octet-stream) in CBT.V508.FILE256.PDS, moved to PDS/ISPCMDS
